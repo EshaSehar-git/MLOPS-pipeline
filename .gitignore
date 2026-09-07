@@ -1,0 +1,16 @@
+models/
+mlruns/
+data/raw/
+data/processed/
+*.jsonl
+__pycache__/
+*.pyc
+.env
+venv/
+reports/
+logs/
+.pytest_cache/
+
+# frontend (React/Vite)
+frontend/node_modules/
+frontend/dist/
